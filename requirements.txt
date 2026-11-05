@@ -1,0 +1,6 @@
+# Validated research environment: Python 3.10, PyTorch CUDA 11.8.
+# Install the appropriate PyTorch wheel as described in README.md first.
+torch==2.2.2
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2

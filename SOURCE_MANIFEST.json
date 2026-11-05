@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "scope": "core-code subset; dataset construction excluded",
+  "files": [
+    {
+      "file": "scripts/run_ssthnet_ablations.py",
+      "source": "scripts/run_ssthnet_ablations.py",
+      "source_sha256": "36f0d65123e0ef7240427495aac261b600281207ae8f10951663ee6cf2202265",
+      "release_sha256": "36f0d65123e0ef7240427495aac261b600281207ae8f10951663ee6cf2202265",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/run_ssthnet_joint_vs_independent.py",
+      "source": "scripts/run_ssthnet_joint_vs_independent.py",
+      "source_sha256": "223938c81781873c2739aa51dcc87c1428e97444349879da14eaae034c4d587a",
+      "release_sha256": "223938c81781873c2739aa51dcc87c1428e97444349879da14eaae034c4d587a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/run_ssthnet_training_optimization.py",
+      "source": "scripts/run_ssthnet_training_optimization.py",
+      "source_sha256": "788156ef453f43a3cdf32ba4f3dca1fbcef8bd3493b59215e2eb0dd641385ba3",
+      "release_sha256": "788156ef453f43a3cdf32ba4f3dca1fbcef8bd3493b59215e2eb0dd641385ba3",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/run_ssthnet_history_window_ablations.py",
+      "source": "scripts/run_ssthnet_history_window_ablations.py",
+      "source_sha256": "28a77f483288ce59c45fee8f38fd59bca94b688009c5777732e03ba0e266e53d",
+      "release_sha256": "28a77f483288ce59c45fee8f38fd59bca94b688009c5777732e03ba0e266e53d",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/evaluate_ssthnet_history_windows.py",
+      "source": "scripts/evaluate_ssthnet_history_windows.py",
+      "source_sha256": "6e9934d49df299f18f88a29379af7cde203beb7adf88b4071944319ec66efcb3",
+      "release_sha256": "6e9934d49df299f18f88a29379af7cde203beb7adf88b4071944319ec66efcb3",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/evaluate_ssthnet_final_clinical.py",
+      "source": "scripts/evaluate_ssthnet_final_clinical.py",
+      "source_sha256": "ed0ba8029c88f147885e854f7d1a8a21c6d3e671ce79baedefc8d5688bf2791a",
+      "release_sha256": "ed0ba8029c88f147885e854f7d1a8a21c6d3e671ce79baedefc8d5688bf2791a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/bootstrap_ssthnet_five_seed_ablations.py",
+      "source": "scripts/bootstrap_ssthnet_five_seed_ablations.py",
+      "source_sha256": "0d96acfc608b1e13892004dcb5aa7dff0fb0da26714fbf3dbd81d2b55882643f",
+      "release_sha256": "0d96acfc608b1e13892004dcb5aa7dff0fb0da26714fbf3dbd81d2b55882643f",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/ssthnet_calibration_qc.py",
+      "source": "scripts/ssthnet_calibration_qc.py",
+      "source_sha256": "4536219e4ba0e9936da539a6bd4f0dab21cf8f7cc4e771d3d84ef8362aa5805a",
+      "release_sha256": "4536219e4ba0e9936da539a6bd4f0dab21cf8f7cc4e771d3d84ef8362aa5805a",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/test_evaluate_ssthnet_final_clinical.py",
+      "source": "scripts/test_evaluate_ssthnet_final_clinical.py",
+      "source_sha256": "797f0d9258aa2b9b0e2053144048ce285190f9dbcc64f123297b04e4ed1fca1c",
+      "release_sha256": "797f0d9258aa2b9b0e2053144048ce285190f9dbcc64f123297b04e4ed1fca1c",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/test_evaluate_ssthnet_history_windows.py",
+      "source": "scripts/test_evaluate_ssthnet_history_windows.py",
+      "source_sha256": "c499f5d1efaf302023557932b94a38b8517118247433f5e0bd514c682a0f0e01",
+      "release_sha256": "c499f5d1efaf302023557932b94a38b8517118247433f5e0bd514c682a0f0e01",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/test_ssthnet_training_optimization.py",
+      "source": "scripts/test_ssthnet_training_optimization.py",
+      "source_sha256": "d96fb9127483716052ae18e3a34badc932d8d01e9eca82cd9a04aad522cc8f7e",
+      "release_sha256": "d96fb9127483716052ae18e3a34badc932d8d01e9eca82cd9a04aad522cc8f7e",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/test_ssthnet_history_window_ablations.py",
+      "source": "scripts/test_ssthnet_history_window_ablations.py",
+      "source_sha256": "599519cd0ddff2b01cf2492036f560bc22acb33634546569eb0967885aa4ea25",
+      "release_sha256": "599519cd0ddff2b01cf2492036f560bc22acb33634546569eb0967885aa4ea25",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/test_ssthnet_joint_vs_independent.py",
+      "source": "scripts/test_ssthnet_joint_vs_independent.py",
+      "source_sha256": "d55e0f25bac8922a8de86392ced47bb625a87bb2b4c74ad94108671dd9bbcddc",
+      "release_sha256": "d55e0f25bac8922a8de86392ced47bb625a87bb2b4c74ad94108671dd9bbcddc",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "experiments/model_runs/phase6ca84x_v7_extended_structural_ablations_v1/ca84x_models.py",
+      "source": "experiments/model_runs/phase6ca84x_v7_extended_structural_ablations_v1/ca84x_models.py",
+      "source_sha256": "266374b8ef4a49a55fe1604c290904535ef7240af4c891f4ba39828c25d31f13",
+      "release_sha256": "266374b8ef4a49a55fe1604c290904535ef7240af4c891f4ba39828c25d31f13",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "ssthnet/_architecture.py",
+      "source": "experiments/model_runs/phase6ca84x_v7_extended_structural_ablations_v1/ca84x_models.py",
+      "source_sha256": "266374b8ef4a49a55fe1604c290904535ef7240af4c891f4ba39828c25d31f13",
+      "release_sha256": "266374b8ef4a49a55fe1604c290904535ef7240af4c891f4ba39828c25d31f13",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "file": "scripts/run_lightgbm660.py",
+      "source": "scripts/run_lightgbm660.py",
+      "source_sha256": "f1fa80d3b84c09a8b3ab4ff455a3bf3d967a093b79ab77a2048f3d672625ea21",
+      "release_sha256": "e4d0f6abdc6e12cc4e2248193f2852655c4ff5dbcf8be4081109b9047643b4fc",
+      "transformation": "extract shared I/O; omit all tree fitting/CLI code"
+    },
+    {
+      "file": "experiments/model_runs/phase6ca84_v7_scale_source_task_horizon_sparse_moe_v1/2840_ca84_scale_source_task_horizon_sparse_moe.py",
+      "source": "experiments/model_runs/phase6ca84_v7_scale_source_task_horizon_sparse_moe_v1/2840_ca84_scale_source_task_horizon_sparse_moe.py",
+      "source_sha256": "50e4ac899a1ef2d050abf4329f9954f07fd3e527737e08fca7416bd388c726ac",
+      "release_sha256": "e3ef0b165ce6d378c7b14634e8fe0d746a65c850f395edbdf7c9f050375efb3b",
+      "transformation": "extract scaler/class-weight helpers only; omit cache builders"
+    },
+    {
+      "file": "experiments/model_runs/phase6ca75_v7_locked_outer_test_benchmark_v1/ca75_protocol.py",
+      "source": "experiments/model_runs/phase6ca75_v7_locked_outer_test_benchmark_v1/ca75_protocol.py",
+      "source_sha256": "d5a127b1c4da96afa90d4173636f74939cc492e5fe68631d07dae28687f55bb4",
+      "release_sha256": "0967f3c6b8ddea3015cc993a71bff540fae8bb90e26a66154745bfe843da5140",
+      "transformation": "extract threshold/metric helpers only; omit split-generation logic"
+    },
+    {
+      "file": "experiments/model_runs/phase6ca75_v7_locked_outer_test_benchmark_v1/2750_ca75_outer_test.py",
+      "source": "experiments/model_runs/phase6ca75_v7_locked_outer_test_benchmark_v1/2750_ca75_outer_test.py",
+      "source_sha256": "c1be8d757cf94fadb33d09919e8bd25b2d110c6f742d4abffd3bb8bd07aa697c",
+      "release_sha256": "666a7d4cec560559067b8ba5621a0c8866515e4440d0d3fa71f42fd56341a242",
+      "transformation": "extract four metric helpers only; omit dataset and benchmark builders"
+    },
+    {
+      "file": "baselines/lr660/lr660.py",
+      "source": "LR660_Server_20260923.zip:LR660_Server_20260923/lr660.py",
+      "source_sha256": "bff93b99fd0f5d2c958c3a792f5716ee89a375d46b67ffbfc857cd14868ecdc4",
+      "release_sha256": "bff93b99fd0f5d2c958c3a792f5716ee89a375d46b67ffbfc857cd14868ecdc4",
+      "transformation": "byte-identical archived source"
+    },
+    {
+      "file": "baselines/lr660/test_lr660.py",
+      "source": "LR660_Server_20260923.zip:LR660_Server_20260923/test_lr660.py",
+      "source_sha256": "65f852888fd7c3f7148bc02ff84d7c93213c0e1e6a73813fde1bde4db6d110ed",
+      "release_sha256": "65f852888fd7c3f7148bc02ff84d7c93213c0e1e6a73813fde1bde4db6d110ed",
+      "transformation": "byte-identical archived source"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "configuration_role": "earlier supporting analyses; separate from final epoch-15 evaluation",
+  "seed_indices": [1, 2, 3, 4, 5],
+  "folds": [0, 1, 2, 3],
+  "training_epochs": 6,
+  "evaluation_epoch": 5,
+  "structural_variants": ["ssthnet", "no_source_interaction", "no_scale_interaction", "independent_queries"],
+  "joint_comparison": "one seven-target model versus seven separate target models",
+  "query_note": "independent query parameterisation is not removal of cross-attention",
+  "speed_benchmark_status": "deferred; not presented as completed"
+}

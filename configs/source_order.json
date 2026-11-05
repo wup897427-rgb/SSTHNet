@@ -1,0 +1,12 @@
+{
+  "role": "model tensor axis metadata; no dataset construction implementation",
+  "source_axis": [
+    "Solar8000/ART_MBP", "Solar8000/FEM_MBP", "EV1000/ART_MBP",
+    "Solar8000/HR", "Solar8000/PLETH_HR", "Solar8000/PLETH_SPO2",
+    "BIS/BIS", "BIS/SQI", "Primus/ETCO2", "Solar8000/ETCO2",
+    "Primus/RR_CO2", "Solar8000/RR_CO2", "Primus/PIP_MBAR",
+    "Solar8000/VENT_PIP", "Primus/PEEP_MBAR", "Solar8000/VENT_MEAS_PEEP",
+    "Primus/TV", "Solar8000/VENT_TV", "Primus/FIO2", "Solar8000/FIO2",
+    "Vigilance/BT_PA", "Solar8000/BT"
+  ]
+}
